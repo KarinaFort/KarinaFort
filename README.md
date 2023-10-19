@@ -1,5 +1,5 @@
 ## Oiêêê!! Meu nome é Karina Forte
-:blush: Tenho 26 anos  
+:blush: Tenho 27 anos  
 :books: Estou cursando Análise e desenvolvimento de sistemas   
 :heart_eyes_cat: Amo a tecnologia e o que ela pode nos proporcionar   
 
