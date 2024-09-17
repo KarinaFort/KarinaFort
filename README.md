@@ -40,5 +40,4 @@
 
 <div style="display: inline_block">
   
-  ![Snake animation](https://github.com/Karinafort/KarinaFort/blob/output/github-contribution-grid-snake.svg)
-
+  
